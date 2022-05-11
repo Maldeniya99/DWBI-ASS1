@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{87534903-B36A-4000-9CB3-F296EA670B85}" Name="Accident_Profiling_result">
+      <DtsConnectionManagerID>Accident_Profiling_result</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{D5973FF2-3C5C-46D9-AC35-6848AEF2B999}" Name="HighwayUser_Profiling_result">
+      <DtsConnectionManagerID>HighwayUser_Profiling_result</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{1CC8EE79-EF5D-4C86-B23D-CF9E6062637C}" Name="HighwayUserAddress_Profiling_result">
+      <DtsConnectionManagerID>HighwayUserAddress_Profiling_result</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{4A1E7DFE-6959-49EB-B36D-E76C683A9EA4}" Name="Railroad_Profiling_result">
+      <DtsConnectionManagerID>Railroad_Profiling_result</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{61EF470D-5467-4D50-BBE4-E4FC423B8761}" Name="SubTrack_Profiling_result">
+      <DtsConnectionManagerID>SubTrack_Profiling_result</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{89196FB2-654B-41D9-B32D-158F19A79131}" Name="Track_Profiling_result">
+      <DtsConnectionManagerID>Track_Profiling_result</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{2E495731-D8E9-412E-A728-E7F80F9E9991}" Name="Vehicle_Profiling_result">
+      <DtsConnectionManagerID>Vehicle_Profiling_result</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests />
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles />
+  </DataProfileOutput>
+</DataProfile>

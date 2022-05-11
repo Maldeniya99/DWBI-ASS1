@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="5/4/2022 1:11:40 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="MANUSHIKA"
+  DTS:CreatorName="MANUSHIKA\Ryzen 5"
+  DTS:DTSID="{6D13DB00-1033-4F42-841C-5F73800F864D}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.170"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{FEF13991-F2A8-49C6-8AA9-4D18AE1E365F}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
